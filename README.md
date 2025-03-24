@@ -12,3 +12,5 @@ Single Agents: Independent agents performing specific tasks
 Team of Agents: Agents collaborating and delegating tasks
 
 Chat on Data: Using CsvTools and PandasTools for data analysis
+
+Multi-Modal: Image analysis agent that interprets and provides insights from images.
