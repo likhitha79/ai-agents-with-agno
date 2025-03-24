@@ -1,0 +1,6 @@
+groq
+agno
+duckduckgo-search
+dotenv
+pandas
+duckdb
